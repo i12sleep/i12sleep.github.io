@@ -13,5 +13,9 @@ body {
 }
 
 h2 {
-    color: #c1d5f0
+    color: #c1d5f0;
+}
+
+h3 {
+    color: whitesmoke;
 }
